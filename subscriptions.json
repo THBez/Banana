@@ -1,0 +1,1 @@
+{"success":true,"data":[{"id":185,"user_id":188,"product_id":1,"expire_at":"2099-01-01 00:00:00","hardware":"0D3E4E8628413A5A7DAE03C63D0462A8","status":"active","created_at":"2021-12-16T14:05:26.000000Z","updated_at":"2021-12-16T15:29:21.000000Z","deleted_at":null,"product":{"id":1,"active_version":"1.4.3"}}],"message":"Subscriptions retrieved successfully."}
